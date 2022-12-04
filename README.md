@@ -6,3 +6,6 @@ I was watching a blockchain introduction video, where he gave the example house 
 
 
 ![nft part](readmeimages/1.png)
+
+
+![dapp part](readmeimages/2.png)
