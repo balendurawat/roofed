@@ -1,10 +1,10 @@
 Real Estate Selling Dapp
 
 Tech Stack:
--Solidity
--Hardhat
--Ethersjs
--React(i am not too good at this)
+- Solidity
+- Hardhat
+- Ethersjs
+- Javascript(test and react)
 
 I was watching a blockchain introduction video, where he gave the example house buying system
 
